@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+numpy>=1.20.0
+matplotlib>=3.5.0
+pillow>=8.0.0
+# Required for PDF generation
+reportlab>=3.6.0
+# For statistics calculations
+statistics
